@@ -6,7 +6,7 @@
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT price (#PCDATA)>
 ]>
-
+ 
 <snowmaking_costs>
 	
 	<costs>
@@ -47,6 +47,6 @@
 		
 </snowmaking_costs>
 			
-			
+	
 	
 		
